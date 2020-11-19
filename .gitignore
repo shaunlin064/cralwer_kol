@@ -1,0 +1,5 @@
+./kol/*
+./storage/*
+.env
+.idea/
+__pycache__/
