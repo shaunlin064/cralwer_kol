@@ -23,4 +23,5 @@
  ## show case
  
  getKolMainPageUrl.py
- ![](demo.gif)
+ ![image](https://raw.githubusercontent.com/shaunlin064/crawler_kol/main/resource/img/demo.gif 'review')
+
